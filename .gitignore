@@ -2,3 +2,5 @@
 /scripts/
 /cmix
 /enwik9-preproc
+/.cache
+/build
